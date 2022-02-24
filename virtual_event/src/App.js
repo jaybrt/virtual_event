@@ -43,6 +43,13 @@ function App() {
       </div>
       <hr></hr>
       <div className="footer">
+        <h1>Citations</h1>
+        <p>
+          Developerdrive Staff. “15 Best Places to Learn How to Code in 2019 -
+          Developer Drive.” Www.developerdrive.com, 13 Feb. 2019,
+          www.developerdrive.com/best-places-learn-how-to-code/. Accessed 18
+          Dec. 2021.
+        </p>
         <a href="https://jaybrt.github.io/tsa_webmaster">Back To Main Site</a>
       </div>
     </div>
