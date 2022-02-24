@@ -18,7 +18,7 @@ const Header = () => {
       </div>
       <div className="header-text__subtitle">
         <Typing>
-          <Typing.Delay ms={10000} />
+          <Typing.Delay ms={9000} />
           <span>Learn to Make Websites</span>
           <Typing.Delay ms={800} />
           <Typing.Backspace count={8} />
