@@ -1,0 +1,34 @@
+.info__content {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: 2rem;
+}
+
+.info__title {
+  padding: 1rem;
+  font-family: var(--font-family);
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.info__title a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.info__title a:hover {
+  text-decoration: underline;
+}
+.info__body {
+  padding: 0 1rem 1rem 1rem;
+  font-family: var(--font-family);
+  max-width: 800px;
+}
+
+.info__body p {
+  color: var(--color-alt);
+  font-weight: 600;
+  text-align: left;
+}

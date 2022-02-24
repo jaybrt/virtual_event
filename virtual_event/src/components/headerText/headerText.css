@@ -1,0 +1,21 @@
+.header-text__title span {
+  font-family: var(--font-family);
+  font-size: 65px;
+  line-height: 90px;
+  color: #fff;
+  font-weight: 600;
+}
+.header-text__title {
+  padding: 1rem 0 1rem 0;
+}
+.header-text__subtitle span {
+  font-family: var(--font-family);
+  font-size: 32px;
+  line-height: 36px;
+  color: var(--color-alt);
+  font-weight: 400;
+}
+
+.header-text__content {
+  padding-bottom: 2rem;
+}
